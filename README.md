@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iud-wtag
+- 👋 Hi, I’m @imtiaj-rafi
 - 👀 I’m interested in fullstack development.
 - 🌱 I’m currently learning RubyOnRails and React.js
 - 📫 How to reach me: imtiaj.uddin@welldev.io
