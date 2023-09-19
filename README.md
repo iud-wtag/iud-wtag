@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imtiaj-rafi
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently working on RubyOnRails and React.js
+- 🌱 I’m currently working with RubyOnRails and React.js
 - 📫 How to reach me: imtiaj.uddin@welldev.io
 
 <!---
